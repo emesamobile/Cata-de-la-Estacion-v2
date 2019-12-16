@@ -24,6 +24,9 @@
         }
     },
     "dependent_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "cata.barrio.estacion"
+        },
         "cordova-plugin-wkwebview-engine": {
             "PACKAGE_NAME": "cata.barrio.estacion"
         }
